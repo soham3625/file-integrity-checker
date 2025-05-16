@@ -14,10 +14,6 @@ This is a simple Python-based tool that monitors and detects changes in files wi
 ├── file_contents.json # Stores original file contents
 └── testfile/ # Directory containing files to monitor
 
-markdown
-Copy
-Edit
-
 ## 🚀 Features
 
 - Calculates SHA-256 hashes for all files in a given directory.
@@ -51,9 +47,7 @@ Edit
 python Fileintegritychecker.py
 You will be prompted with:
 
-mathematica
-Copy
-Edit
+
 🔒 File Integrity Checker
 1. Create Baseline
 2. Check Integrity
