@@ -40,11 +40,10 @@ Clone or download the repository and navigate into it:
 ```bash
 git clone https://github.com/soham3625/file-integrity-checker.git
 cd file-integrity-checker
+
 Step 2: Run the Script
-bash
-Copy
-Edit
 python Fileintegritychecker.py
+
 You will be prompted with:
 
 
@@ -58,10 +57,7 @@ Choose 2 to check for changes since the last baseline.
 
 ✅ Ensure the directory testfile/ contains the files you want to monitor.
 
-📝 Example Output
-pgsql
-Copy
-Edit
+📝 Example Output:-
 🔍 Integrity Check Report
 -------------------------
 
