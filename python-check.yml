@@ -1,0 +1,24 @@
+
+---
+
+### 🔧 How to Upload to GitHub
+
+#### 1. Create a GitHub Repository
+
+1. Go to [github.com](https://github.com) and sign in.
+2. Click the "+" icon in the top-right → **New repository**.
+3. Set a repository name (e.g., `file-integrity-checker`) and description.
+4. Choose `Public` and DO NOT initialize with a README (you already have one).
+5. Click **Create repository**.
+
+#### 2. Push Your Local Project
+
+Open your terminal/command prompt in the project folder:
+
+```bash
+git init
+git add .
+git commit -m "Initial commit - File Integrity Checker"
+git branch -M main
+git remote add origin https://github.com/soham3625/file-integrity-checker.git
+git push -u origin main
