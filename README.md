@@ -37,11 +37,10 @@ Make sure you have Python installed (preferably Python 3.6+).
 
 Clone or download the repository and navigate into it:
 
-```bash
 git clone https://github.com/soham3625/file-integrity-checker.git
 cd file-integrity-checker
 
-Step 2: Run the Script
+### Step 2: Run the Script
 python Fileintegritychecker.py
 
 You will be prompted with:
